@@ -1,0 +1,1365 @@
+{
+ "phys_byfield": {
+  "凝聚态物理": [
+   {
+    "name": "曹远胜",
+    "url": "../../info/1102/5613.htm"
+   },
+   {
+    "name": "陈难先",
+    "url": "../../info/1102/4343.htm"
+   },
+   {
+    "name": "陈曦",
+    "url": "../../info/1102/4349.htm"
+   },
+   {
+    "name": "段文晖",
+    "url": "../../info/1102/4530.htm"
+   },
+   {
+    "name": "范守善",
+    "url": "../../info/1102/4341.htm"
+   },
+   {
+    "name": "冯硝",
+    "url": "../../info/1102/4340.htm"
+   },
+   {
+    "name": "郭永",
+    "url": "../../info/1102/4348.htm"
+   },
+   {
+    "name": "郝镇齐",
+    "url": "../../info/1102/5360.htm"
+   },
+   {
+    "name": "何珂",
+    "url": "../../info/1102/4339.htm"
+   },
+   {
+    "name": "季帅华",
+    "url": "../../info/1102/4758.htm"
+   },
+   {
+    "name": "江万军",
+    "url": "../../info/1102/4692.htm"
+   },
+   {
+    "name": "姜开利",
+    "url": "../../info/1102/4337.htm"
+   },
+   {
+    "name": "李群庆",
+    "url": "../../info/1102/4336.htm"
+   },
+   {
+    "name": "李渭",
+    "url": "../../info/1102/4660.htm"
+   },
+   {
+    "name": "梁田",
+    "url": "../../info/1102/4696.htm"
+   },
+   {
+    "name": "刘东",
+    "url": "../../info/1102/4854.htm"
+   },
+   {
+    "name": "柳鹏",
+    "url": "../../info/1102/5120.htm"
+   },
+   {
+    "name": "罗迪",
+    "url": "../../info/1102/6549.htm"
+   },
+   {
+    "name": "吕嵘",
+    "url": "../../info/1102/4333.htm"
+   },
+   {
+    "name": "马旭村",
+    "url": "../../info/1102/5906.htm"
+   },
+   {
+    "name": "倪军",
+    "url": "../../info/1102/5082.htm"
+   },
+   {
+    "name": "宋灿立",
+    "url": "../../info/1102/4331.htm"
+   },
+   {
+    "name": "孙志远",
+    "url": "../../info/1102/5298.htm"
+   },
+   {
+    "name": "王冲",
+    "url": "../../info/1102/5946.htm"
+   },
+   {
+    "name": "王佳平",
+    "url": "../../info/1102/4329.htm"
+   },
+   {
+    "name": "王立莉",
+    "url": "../../info/1102/4523.htm"
+   },
+   {
+    "name": "王亚愚",
+    "url": "../../info/1102/4328.htm"
+   },
+   {
+    "name": "魏洋",
+    "url": "../../info/1102/5119.htm"
+   },
+   {
+    "name": "吴健",
+    "url": "../../info/1102/4354.htm"
+   },
+   {
+    "name": "徐勇",
+    "url": "../../info/1102/4710.htm"
+   },
+   {
+    "name": "薛其坤",
+    "url": "../../info/1102/4326.htm"
+   },
+   {
+    "name": "杨乐仙",
+    "url": "../../info/1102/4795.htm"
+   },
+   {
+    "name": "杨硕",
+    "url": "../../info/1102/5607.htm"
+   },
+   {
+    "name": "于浦",
+    "url": "../../info/1102/5482.htm"
+   },
+   {
+    "name": "张定",
+    "url": "../../info/1102/5442.htm"
+   },
+   {
+    "name": "张金松",
+    "url": "../../info/1102/5616.htm"
+   },
+   {
+    "name": "张跃钢",
+    "url": "../../info/1102/5500.htm"
+   },
+   {
+    "name": "赵永刚",
+    "url": "../../info/1102/5116.htm"
+   },
+   {
+    "name": "周树云",
+    "url": "../../info/1102/5121.htm"
+   },
+   {
+    "name": "朱邦芬",
+    "url": "../../info/1102/4266.htm"
+   }
+  ],
+  "原子分子与光物理": [
+   {
+    "name": "陈文兰",
+    "url": "../../info/1103/4759.htm"
+   },
+   {
+    "name": "丁世谦",
+    "url": "../../info/1103/4939.htm"
+   },
+   {
+    "name": "李家明",
+    "url": "../../info/1103/4305.htm"
+   },
+   {
+    "name": "刘永椿",
+    "url": "../../info/1103/4568.htm"
+   },
+   {
+    "name": "龙桂鲁",
+    "url": "../../info/1103/4299.htm"
+   },
+   {
+    "name": "莫宇翔",
+    "url": "../../info/1103/4288.htm"
+   },
+   {
+    "name": "缪海兴",
+    "url": "../../info/1103/4861.htm"
+   },
+   {
+    "name": "宁传刚",
+    "url": "../../info/1103/4524.htm"
+   },
+   {
+    "name": "王力军",
+    "url": "../../info/1103/4283.htm"
+   },
+   {
+    "name": "王向斌",
+    "url": "../../info/1103/4281.htm"
+   },
+   {
+    "name": "熊启华",
+    "url": "../../info/1103/4552.htm"
+   },
+   {
+    "name": "薛平",
+    "url": "../../info/1103/4600.htm"
+   },
+   {
+    "name": "杨鲁懿",
+    "url": "../../info/1103/4497.htm"
+   },
+   {
+    "name": "尤力",
+    "url": "../../info/1103/4272.htm"
+   },
+   {
+    "name": "郑盟锟",
+    "url": "../../info/1103/4267.htm"
+   }
+  ],
+  "粒子物理核物理天体物理": [
+   {
+    "name": "安海鹏",
+    "url": "../../info/1104/4318.htm"
+   },
+   {
+    "name": "陈新",
+    "url": "../../info/1104/4316.htm"
+   },
+   {
+    "name": "高飞",
+    "url": "../../info/1104/4610.htm"
+   },
+   {
+    "name": "何联毅",
+    "url": "../../info/1104/4846.htm"
+   },
+   {
+    "name": "胡震",
+    "url": "../../info/1104/4760.htm"
+   },
+   {
+    "name": "邝宇平",
+    "url": "../../info/1104/4293.htm"
+   },
+   {
+    "name": "阮东",
+    "url": "../../info/1104/4289.htm"
+   },
+   {
+    "name": "施舒哲",
+    "url": "../../info/1104/5568.htm"
+   },
+   {
+    "name": "王青",
+    "url": "../../info/1104/5023.htm"
+   },
+   {
+    "name": "王晓锋",
+    "url": "../../info/1104/4630.htm"
+   },
+   {
+    "name": "鲜于中之",
+    "url": "../../info/1104/4511.htm"
+   },
+   {
+    "name": "肖志刚",
+    "url": "../../info/1104/4490.htm"
+   },
+   {
+    "name": "杨轶",
+    "url": "../../info/1104/5861.htm"
+   },
+   {
+    "name": "叶志鸿",
+    "url": "../../info/1104/4808.htm"
+   },
+   {
+    "name": "邹冰松",
+    "url": "../../info/1104/5864.htm"
+   }
+  ],
+  "物理教学": [
+   {
+    "name": "安宇",
+    "url": "../../info/1105/4313.htm"
+   },
+   {
+    "name": "陈宏",
+    "url": "../../info/1105/4312.htm"
+   },
+   {
+    "name": "杜春光",
+    "url": "../../info/1105/4306.htm"
+   },
+   {
+    "name": "蒋硕",
+    "url": "../../info/1105/4304.htm"
+   },
+   {
+    "name": "晋青珍",
+    "url": "../../info/1105/4302.htm"
+   },
+   {
+    "name": "李俊林",
+    "url": "../../info/1105/4295.htm"
+   },
+   {
+    "name": "李岩松",
+    "url": "../../info/1105/4294.htm"
+   },
+   {
+    "name": "王合英",
+    "url": "../../info/1105/4285.htm"
+   },
+   {
+    "name": "王山鹰",
+    "url": "../../info/1105/4282.htm"
+   },
+   {
+    "name": "王宇航",
+    "url": "../../info/1105/6023.htm"
+   },
+   {
+    "name": "魏斌",
+    "url": "../../info/1105/4280.htm"
+   },
+   {
+    "name": "张斌",
+    "url": "../../info/1105/4276.htm"
+   },
+   {
+    "name": "张留碗",
+    "url": "../../info/1105/4274.htm"
+   },
+   {
+    "name": "张有宏",
+    "url": "../../info/1105/4271.htm"
+   }
+  ]
+ },
+ "phys_supervisors": {
+  "粒子物理理论": [
+   {
+    "name": "安海鹏",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1096/4435.htm"
+   },
+   {
+    "name": "王青",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1100/4235.htm"
+   },
+   {
+    "name": "鲜于中之",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4491.htm"
+   },
+   {
+    "name": "邹冰松",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/5863.htm"
+   }
+  ],
+  "粒子物理实验": [
+   {
+    "name": "陈新",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1096/4446.htm"
+   },
+   {
+    "name": "高飞",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4455.htm"
+   },
+   {
+    "name": "胡震",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4462.htm"
+   },
+   {
+    "name": "叶志鸿",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4807.htm"
+   }
+  ],
+  "核物理理论": [
+   {
+    "name": "何联毅",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4459.htm"
+   },
+   {
+    "name": "龙桂鲁",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4210.htm"
+   },
+   {
+    "name": "阮东",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4223.htm"
+   },
+   {
+    "name": "徐喆",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4263.htm"
+   },
+   {
+    "name": "庄鹏飞",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1106/5725.htm"
+   },
+   {
+    "name": "施舒哲",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/5533.htm"
+   },
+   {
+    "name": "邹冰松",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/5863.htm"
+   }
+  ],
+  "原子核物理实验": [
+   {
+    "name": "肖志刚",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4265.htm"
+   }
+  ],
+  "原子分子与光物理理论": [
+   {
+    "name": "何联毅",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4459.htm"
+   },
+   {
+    "name": "李家明",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4471.htm"
+   },
+   {
+    "name": "刘永椿",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4211.htm"
+   },
+   {
+    "name": "尤力",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4257.htm"
+   }
+  ],
+  "原子分子与光物理实验": [
+   {
+    "name": "陈文兰",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1096/4444.htm"
+   },
+   {
+    "name": "丁世谦",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1096/4938.htm"
+   },
+   {
+    "name": "刘永椿",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4211.htm"
+   },
+   {
+    "name": "莫宇翔",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4229.htm"
+   },
+   {
+    "name": "宁传刚",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4227.htm"
+   },
+   {
+    "name": "王力军",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1100/4236.htm"
+   },
+   {
+    "name": "熊启华",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4551.htm"
+   },
+   {
+    "name": "薛平",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4262.htm"
+   },
+   {
+    "name": "尤力",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4257.htm"
+   },
+   {
+    "name": "杨鲁懿",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4259.htm"
+   },
+   {
+    "name": "郑盟锟",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4245.htm"
+   }
+  ],
+  "凝聚态物理理论": [
+   {
+    "name": "段文晖",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1096/4452.htm"
+   },
+   {
+    "name": "郭永",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4457.htm"
+   },
+   {
+    "name": "刘东",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4212.htm"
+   },
+   {
+    "name": "罗迪",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/6548.htm"
+   },
+   {
+    "name": "吕嵘",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4212.htm"
+   },
+   {
+    "name": "倪军",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4228.htm"
+   },
+   {
+    "name": "孙志远",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/5297.htm"
+   },
+   {
+    "name": "吴健",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1100/4621.htm"
+   },
+   {
+    "name": "王冲",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1100/5945.htm"
+   },
+   {
+    "name": "徐勇",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4264.htm"
+   },
+   {
+    "name": "杨硕",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4258.htm"
+   },
+   {
+    "name": "张广铭",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4252.htm"
+   },
+   {
+    "name": "朱邦芬",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4243.htm"
+   }
+  ],
+  "凝聚态物理实验": [
+   {
+    "name": "陈曦",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1096/4445.htm"
+   },
+   {
+    "name": "范守善",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4453.htm"
+   },
+   {
+    "name": "冯硝",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/5601.htm"
+   },
+   {
+    "name": "何珂",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4458.htm"
+   },
+   {
+    "name": "季帅华",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4463.htm"
+   },
+   {
+    "name": "江万军",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4464.htm"
+   },
+   {
+    "name": "姜开利",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1097/4465.htm"
+   },
+   {
+    "name": "李渭",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4215.htm"
+   },
+   {
+    "name": "李群庆",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4216.htm"
+   },
+   {
+    "name": "梁田",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4695.htm"
+   },
+   {
+    "name": "马旭村",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4230.htm"
+   },
+   {
+    "name": "宋灿立",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4222.htm"
+   },
+   {
+    "name": "王佳平",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1100/4238.htm"
+   },
+   {
+    "name": "王立莉",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1100/4522.htm"
+   },
+   {
+    "name": "王亚愚",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1100/4226.htm"
+   },
+   {
+    "name": "熊启华",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4551.htm"
+   },
+   {
+    "name": "薛其坤",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4261.htm"
+   },
+   {
+    "name": "杨鲁懿",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4259.htm"
+   },
+   {
+    "name": "杨乐仙",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4260.htm"
+   },
+   {
+    "name": "于浦",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4255.htm"
+   },
+   {
+    "name": "张定",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/5441.htm"
+   },
+   {
+    "name": "张金松",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4250.htm"
+   },
+   {
+    "name": "张留碗",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4249.htm"
+   },
+   {
+    "name": "张跃钢",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4247.htm"
+   },
+   {
+    "name": "赵永刚",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4246.htm"
+   },
+   {
+    "name": "周树云",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4244.htm"
+   }
+  ],
+  "生物物理": [
+   {
+    "name": "曹远胜",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1096/5470.htm"
+   }
+  ],
+  "生物医学光学": [
+   {
+    "name": "薛平",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/4262.htm"
+   }
+  ],
+  "量子计算与量子信息": [
+   {
+    "name": "陈文兰",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1096/4444.htm"
+   },
+   {
+    "name": "刘东",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4212.htm"
+   },
+   {
+    "name": "刘永椿",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/4211.htm"
+   },
+   {
+    "name": "罗迪",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1098/6548.htm"
+   },
+   {
+    "name": "龙桂鲁",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4860.htm"
+   },
+   {
+    "name": "缪海兴",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4860.htm"
+   },
+   {
+    "name": "阮东",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4223.htm"
+   }
+  ],
+  "引力波探测（物理）": [
+   {
+    "name": "缪海兴",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1099/4860.htm"
+   }
+  ],
+  "天文学": [
+   {
+    "name": "王晓锋",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1100/4232.htm"
+   },
+   {
+    "name": "杨轶",
+    "url": "https://www.phys.tsinghua.edu.cn/info/1101/5858.htm"
+   }
+  ]
+ },
+ "ep": [
+  {
+   "name": "程建平",
+   "url": "../../../info/1235/4216.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "陈怀璧",
+   "url": "../../../info/1235/4217.htm",
+   "rank": "正高级",
+   "jobtitle": "首席研究员"
+  },
+  {
+   "name": "陈少敏",
+   "url": "../../../info/1235/4231.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "陈志强",
+   "url": "../../../info/1235/4243.htm",
+   "rank": "正高级",
+   "jobtitle": "首席研究员"
+  },
+  {
+   "name": "高河伟",
+   "url": "../../../info/1235/4219.htm",
+   "rank": "正高级",
+   "jobtitle": "长聘教授"
+  },
+  {
+   "name": "高喆",
+   "url": "../../../info/1235/4232.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "华剑飞",
+   "url": "../../../info/1235/4230.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "黄文会",
+   "url": "../../../info/1235/4233.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "康克军",
+   "url": "../../../info/1235/4238.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "梁漫春",
+   "url": "../../../info/1235/4242.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "曾志",
+   "url": "../../../../info/1235/4224.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "查皓",
+   "url": "../../../../info/1235/4214.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "赵自然",
+   "url": "../../../../info/1235/4222.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "周明胜",
+   "url": "../../../../info/1235/4221.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "邢宇翔",
+   "url": "../../../../info/1235/4226.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "岳骞",
+   "url": "../../../../info/1235/4225.htm",
+   "rank": "正高级",
+   "jobtitle": "首席研究员"
+  },
+  {
+   "name": "张丽",
+   "url": "../../../../info/1235/4223.htm",
+   "rank": "正高级",
+   "jobtitle": "首席研究员"
+  },
+  {
+   "name": "邱睿",
+   "url": "../../../../info/1235/4241.htm",
+   "rank": "正高级",
+   "jobtitle": "长聘教授"
+  },
+  {
+   "name": "施嘉儒",
+   "url": "../../../../info/1235/4415.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "唐传祥",
+   "url": "../../../../info/1235/4215.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "王侃",
+   "url": "../../../../info/1235/4246.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "王学武",
+   "url": "../../../../info/1235/4228.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "王义",
+   "url": "../../../../info/1235/4227.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "杨祎罡",
+   "url": "../../../../info/1235/4245.htm",
+   "rank": "正高级",
+   "jobtitle": "长聘教授"
+  },
+  {
+   "name": "颜立新",
+   "url": "../../../../info/1235/4244.htm",
+   "rank": "正高级",
+   "jobtitle": "长聘教授"
+  },
+  {
+   "name": "俞冀阳",
+   "url": "../../../../info/1235/4220.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "曾鸣",
+   "url": "../../../../info/1235/4236.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "李和平",
+   "url": "../../../../info/1235/4239.htm",
+   "rank": "正高级",
+   "jobtitle": "长聘教授"
+  },
+  {
+   "name": "李荐民",
+   "url": "../../../../info/1235/4234.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "李君利",
+   "url": "../../../../info/1235/4235.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "李亮",
+   "url": "../../../../info/1235/4229.htm",
+   "rank": "正高级",
+   "jobtitle": "长聘教授"
+  },
+  {
+   "name": "李任恺",
+   "url": "../../../../info/1235/4249.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "刘亚强",
+   "url": "../../../../info/1235/4237.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "刘以农",
+   "url": "../../../../info/1235/4247.htm",
+   "rank": "正高级",
+   "jobtitle": "教授"
+  },
+  {
+   "name": "李元景",
+   "url": "../../../../info/1235/4248.htm",
+   "rank": "正高级",
+   "jobtitle": "研究员"
+  },
+  {
+   "name": "李玉兰",
+   "url": "../../../../info/1235/4218.htm",
+   "rank": "正高级",
+   "jobtitle": "首席研究员"
+  },
+  {
+   "name": "马豪",
+   "url": "../../../../info/1235/4414.htm",
+   "rank": "正高级",
+   "jobtitle": "长聘教授"
+  },
+  {
+   "name": "程诚",
+   "url": "../../../info/1236/4274.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "邓智",
+   "url": "../../../info/1236/4270.htm",
+   "rank": "副高级",
+   "jobtitle": "长聘副教授"
+  },
+  {
+   "name": "董金平",
+   "url": "../../../info/1236/4279.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "杜应超",
+   "url": "../../../info/1236/4284.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "龚光华",
+   "url": "../../../info/1236/4285.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "宫辉",
+   "url": "../../../info/1236/4255.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "黄善仿",
+   "url": "../../../info/1236/4286.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "姜东君",
+   "url": "../../../info/1236/4258.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "刘辉",
+   "url": "../../../info/1236/4278.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "刘井泉",
+   "url": "../../../info/1236/4268.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "郑连敏",
+   "url": "../../../../info/1236/4256.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "郑曙昕",
+   "url": "../../../../info/1236/4251.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "朱相雷",
+   "url": "../../../../info/1236/4259.htm",
+   "rank": "副高级",
+   "jobtitle": "长聘副教授"
+  },
+  {
+   "name": "王迎新",
+   "url": "../../../../info/1236/4281.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "王哲",
+   "url": "../../../../info/1236/4282.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "张智",
+   "url": "../../../../info/1236/4252.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "肖永顺",
+   "url": "../../../../info/1236/4254.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "邢庆子",
+   "url": "../../../../info/1236/4264.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "薛涛",
+   "url": "../../../../info/1236/4262.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "徐旸",
+   "url": "../../../../info/1236/4263.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "衣宏昌",
+   "url": "../../../../info/1236/4253.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "余纲林",
+   "url": "../../../../info/1236/4261.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "曾龙",
+   "url": "../../../../info/1236/4276.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "张剀",
+   "url": "../../../../info/1236/4260.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "张黎明",
+   "url": "../../../../info/1236/4269.htm",
+   "rank": "副高级",
+   "jobtitle": "长聘副教授"
+  },
+  {
+   "name": "张志财",
+   "url": "../../../../info/1236/4417.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "李泽光",
+   "url": "../../../../info/1236/4257.htm",
+   "rank": "副高级",
+   "jobtitle": "长聘副教授"
+  },
+  {
+   "name": "马天予",
+   "url": "../../../../info/1236/4273.htm",
+   "rank": "副高级",
+   "jobtitle": "长聘副教授"
+  },
+  {
+   "name": "潘建雄",
+   "url": "../../../../info/1236/4416.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "潘志龙",
+   "url": "../../../../info/1236/4277.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "谭熠",
+   "url": "../../../../info/1236/4275.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "田阳",
+   "url": "../../../../info/1236/4250.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "王石",
+   "url": "../../../../info/1236/4266.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "王喆",
+   "url": "../../../../info/1236/4280.htm",
+   "rank": "副高级",
+   "jobtitle": "长聘副教授"
+  },
+  {
+   "name": "王振天",
+   "url": "../../../../info/1236/4272.htm",
+   "rank": "副高级",
+   "jobtitle": "副教授"
+  },
+  {
+   "name": "吴朝霞",
+   "url": "../../../../info/1236/4265.htm",
+   "rank": "副高级",
+   "jobtitle": "副研究员"
+  },
+  {
+   "name": "何力",
+   "url": "../../../info/1237/4293.htm",
+   "rank": "中级",
+   "jobtitle": "助理研究员"
+  },
+  {
+   "name": "裴根",
+   "url": "../../../info/1237/4289.htm",
+   "rank": "中级",
+   "jobtitle": "助理研究员"
+  },
+  {
+   "name": "谭承君",
+   "url": "../../../info/1237/4290.htm",
+   "rank": "中级",
+   "jobtitle": "助理研究员"
+  },
+  {
+   "name": "杨丽桃",
+   "url": "../../../info/1237/4287.htm",
+   "rank": "中级",
+   "jobtitle": "助理教授"
+  },
+  {
+   "name": "周骁",
+   "url": "../../../info/1237/4292.htm",
+   "rank": "中级",
+   "jobtitle": "助理研究员"
+  }
+ ],
+ "ias": [
+  {
+   "name": "白雪宁",
+   "url": "../info/1016/1234.htm",
+   "title": "教授",
+   "field": "天体物理",
+   "email": "xbai@tsinghua.edu.cn"
+  },
+  {
+   "name": "BartekCzech",
+   "url": "../info/1016/1233.htm",
+   "title": "教授",
+   "field": "物理",
+   "email": "bartlomiej.czech@gmail.com"
+  },
+  {
+   "name": "陈静远",
+   "url": "http://people.ias.tsinghua.edu.cn/chenjingyuan/zh_CN/index.htm",
+   "title": "研究员",
+   "field": "物理",
+   "email": "ch_jy@tsinghua.edu.cn"
+  },
+  {
+   "name": "陈怡",
+   "url": "../info/1016/1941.htm",
+   "title": "副研究员",
+   "field": "密码学",
+   "email": "chenyi2023@mail.tsinghua.edu.cn"
+  },
+  {
+   "name": "陈卓",
+   "url": "https://czlovemath123.github.io/",
+   "title": "副研究员",
+   "field": "天体物理",
+   "email": "chenzhuo_astro@tsinghua.edu.cn"
+  },
+  {
+   "name": "段斯斯",
+   "url": "https://fififish.github.io/sisiduan/",
+   "title": "研究员",
+   "field": "密码学",
+   "email": "sisi_duan@163.com"
+  },
+  {
+   "name": "段文晖",
+   "url": "https://www.phys.tsinghua.edu.cn/info/1096/4452.htm",
+   "title": "教授、院长",
+   "field": "物理",
+   "email": "duanw（AT）tsinghua.edu.cn"
+  },
+  {
+   "name": "邓秀杰",
+   "url": "../info/1016/1852.htm",
+   "title": "副研究员",
+   "field": "物理",
+   "email": "dengxiujie@mail.tsinghua.edu.cn"
+  },
+  {
+   "name": "顾颖飞",
+   "url": "../info/1016/1763.htm",
+   "title": "研究员",
+   "field": "物理",
+   "email": "guyingfei@tsinghua.edu.cn"
+  },
+  {
+   "name": "RafaelvonKanel",
+   "url": "https://rafaelvonkanel.github.io/",
+   "title": "研究员",
+   "field": "数学",
+   "email": "rafaelvonkanel@gmail.com"
+  },
+  {
+   "name": "李成疏",
+   "url": "https://chengshul.github.io/",
+   "title": "副研究员",
+   "field": "物理",
+   "email": "lichengshu272@gmail.com"
+  },
+  {
+   "name": "李汝佳",
+   "url": "https://rujia.uk",
+   "title": "副研究员",
+   "field": "密码学",
+   "email": "rujia@tsinghua.eud.cn"
+  },
+  {
+   "name": "秦岭月",
+   "url": "../info/1016/1882.htm",
+   "title": "副研究员",
+   "field": "密码学",
+   "email": "qinly@tsinghua.edu.cn"
+  },
+  {
+   "name": "王安宇",
+   "url": "https://anyu-crypto.github.io/chinese/",
+   "title": "研究员",
+   "field": "密码学",
+   "email": "anyuwang@tsinghua.edu.cn"
+  },
+  {
+   "name": "王小云",
+   "url": "../info/1016/1217.htm",
+   "title": "教授",
+   "field": "密码学",
+   "email": "xiaoyunwang@tsinghua.edu.cn"
+  },
+  {
+   "name": "汪忠",
+   "url": "../info/1016/1216.htm",
+   "title": "教授",
+   "field": "物理",
+   "email": "wangzhongemail@gmail.com"
+  },
+  {
+   "name": "翁征宇",
+   "url": "../info/1016/1206.htm",
+   "title": "教授",
+   "field": "物理",
+   "email": "weng@tsinghua.edu.cn"
+  },
+  {
+   "name": "杨镇斌",
+   "url": "../info/1016/1845.htm",
+   "title": "研究员",
+   "field": "物理",
+   "email": "zhenbiny@tsinghua.edu.cn"
+  },
+  {
+   "name": "姚宏",
+   "url": "../info/1016/1215.htm",
+   "title": "教授、副院长",
+   "field": "物理",
+   "email": "yaohong@tsinghua.edu.cn"
+  },
+  {
+   "name": "喻杨",
+   "url": "https://yuyang-crypto.github.io/",
+   "title": "副研究员",
+   "field": "密码学",
+   "email": "yu-yang@tsinghua.edu.cn"
+  },
+  {
+   "name": "翟荟",
+   "url": "../info/1016/1214.htm",
+   "title": "教授",
+   "field": "物理",
+   "email": "huizhai.physics@gmail.com"
+  },
+  {
+   "name": "郭百宁",
+   "url": "https://www.microsoft.com/en-us/research/people/bainguo/",
+   "title": "兼职教授",
+   "field": "计算机科学",
+   "email": "bainguo@microsoft.com"
+  },
+  {
+   "name": "林潮",
+   "url": "https://www.astro.ucsc.edu/faculty/index.php?uid=dnlin",
+   "title": "访问教授",
+   "field": "天体物理",
+   "email": "lin@ucolick.org"
+  },
+  {
+   "name": "罗迪",
+   "url": "../info/1016/1903.htm",
+   "title": "兼职副教授",
+   "field": "物理",
+   "email": "diluo@tsinghua.edu.cn"
+  },
+  {
+   "name": "沈向洋",
+   "url": "https://www.microsoft.com/en-us/research/people/hshum/",
+   "title": "兼职教授",
+   "field": "计算机科学",
+   "email": "hshum@idea.edu.cn"
+  },
+  {
+   "name": "姚期智",
+   "url": "../info/1016/1205.htm",
+   "title": "兼职教授",
+   "field": "计算机科学",
+   "email": "andrewcyao@tsinghua.edu.cn"
+  },
+  {
+   "name": "朱邦芬",
+   "url": "https://www.phys.tsinghua.edu.cn/info/1101/4243.htm",
+   "title": "兼职教授",
+   "field": "物理",
+   "email": "bfz@tsinghua.edu.cn"
+  }
+ ]
+}
